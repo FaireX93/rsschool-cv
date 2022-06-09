@@ -1,1 +1,1 @@
-https://FaireX93.github.io/rsschool-cv/cv
+https://FaireX93.github.io/rsschool-cv/

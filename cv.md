@@ -9,7 +9,7 @@ _Minsk, Belarus_
 
 ## Education
 
-1. 2011-2016 Academy of the ministry of internal affairs of the republic of belarus
+1. 2011-2016 Academy of the ministry of internal affairs of the republic of Belarus
 
 ## Work experience
 
@@ -18,3 +18,6 @@ _Minsk, Belarus_
 
 - __2016-2021 Frunzensky District Department of Internal Affairs of Minsk__ 
   - _as Operative of the Criminal Investigation Department_
+
+## English level
+  - __A1__
